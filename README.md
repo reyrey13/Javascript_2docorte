@@ -1,6 +1,3 @@
-# Javascript_2docorte
-Examen del 2do corte de la materia JavaScript
- 
 # API REST de Gestión de Inventario
 
 Este proyecto es una API construida con **Node.js** y **Express**, que incluye autenticación con **JWT y Refresh Tokens**, control de acceso por **roles de usuario** y un CRUD completo para administrar una entidad (por ejemplo, productos). La API se conecta a una base de datos **MySQL** mediante **Sequelize** y tiene una estructura organizada en carpetas.
